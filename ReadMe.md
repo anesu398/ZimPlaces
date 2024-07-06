@@ -94,13 +94,15 @@ def generate_unique_code(name, index):
     unique_string = f"{name}-{index}"
     unique_code = hashlib.md5(unique_string.encode()).hexdigest()[:8].upper()
     return unique_code
-
-Contributing
+```
+### Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-License
+
+### License
 
 This project is licensed under the MIT License.
-Contact
 
-For any questions or suggestions, please contact [ndabaprinco@gmail.com].
+### Contact
+
+For any questions or suggestions, please contact ndabaprinco@gmail.com.
