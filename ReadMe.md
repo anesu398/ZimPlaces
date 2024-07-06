@@ -21,7 +21,7 @@ This project retrieves and processes geographic data for places in Zimbabwe usin
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/zimbabwe-places-data-generator.git
+    git clone https://github.com/anesu398/ZimPlaces.git
     cd zimbabwe-places-data-generator
     ```
 
